@@ -36,8 +36,8 @@
     </developers>
 
     <properties>
-        <hbase.version>0.98.4-hadoop2</hbase.version>
-        <hdfs.version>2.2.0</hdfs.version>
+        <hbase.version>1.0.1</hbase.version>
+        <hdfs.version>2.4.1</hdfs.version>
     </properties>
 
     <dependencies>
